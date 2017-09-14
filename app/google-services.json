@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "367795627807",
+    "firebase_url": "https://mirim1234-1756e.firebaseio.com",
+    "project_id": "mirim1234-1756e",
+    "storage_bucket": "mirim1234-1756e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367795627807:android:edb47a9b5de3639d",
+        "android_client_info": {
+          "package_name": "mirinaehi.db1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367795627807-fvarr467lgjkr6lsps06cjb316qk27iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxmnIzezxLx8DpzN7AAVgPakC2GfpUBI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367795627807:android:33e140c922d00c7d",
+        "android_client_info": {
+          "package_name": "kr.hs.emirim.garook.firebasedbexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367795627807-fvarr467lgjkr6lsps06cjb316qk27iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxmnIzezxLx8DpzN7AAVgPakC2GfpUBI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
